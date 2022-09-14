@@ -1,3 +1,2 @@
-# FCUS
-This is the repo for FCUS: Traffic Rule-aware Vehicle Trajectory Forecasting Using Continuous Unlikelihood and Signal Temporal Language Feature.
+# FCUS: Traffic Rule-aware Vehicle Trajectory Forecasting Using Continuous Unlikelihood and Signal Temporal Language Feature.
 The code is coming soon...
