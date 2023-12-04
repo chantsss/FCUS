@@ -1,6 +1,6 @@
 # FCUS Official Repository
 
-This repository is the official implementation of [FCUS](https://chantsss.github.io/FCUS/): Traffic Rule-Aware Vehicle Trajectory Forecasting Using Continuous Unlikelihood and Signal Temporal Logic Feature.
+This repository is the official implementation of [FCUS: Traffic Rule-Aware Vehicle Trajectory Forecasting Using Continuous Unlikelihood and Signal Temporal Logic Feature](https://chantsss.github.io/FCUS/).
 
 The code in this repository include the FCUS implementation based on the prediction generator backbone [AutoBots](https://arxiv.org/abs/2104.00563).
 
