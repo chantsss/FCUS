@@ -5,7 +5,7 @@ This repository is the official implementation of [FCUS: Traffic Rule-Aware Vehi
 ![Image text](https://github.com/chantsss/FCUS/blob/main/docs/overview.png)
 
 
-The code in this repository include the FCUS implementation based on the prediction generator backbone [AutoBots](https://arxiv.org/abs/2104.00563).
+The code in this repository includes the FCUS implementation based on the prediction generator backbone [AutoBots](https://arxiv.org/abs/2104.00563). 
 
 The code works well on NVIDIA GeForce RTX 3080 Ti NVIDIA-SMI 510.39.01    Driver Version: 510.39.01    CUDA Version: 11.6
 
@@ -96,7 +96,15 @@ python useful_scripts/generate_nuscene_results.py --dataset-path /path/to/root/o
 If you find this repository is useful, please cite our work:
 
 ```
-Will update as soon as possible.
+@INPROCEEDINGS{10354968,
+  author={Wang, Sheng and Xin, Ren and Cheng, Jie and Mei, Xiaodong and Liu, Ming},
+  booktitle={2023 IEEE International Conference on Robotics and Biomimetics (ROBIO)}, 
+  title={FCUS: Traffic Rule-Aware Vehicle Trajectory Forecasting Using Continuous Unlikelihood and Signal Temporal Logic Feature}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/ROBIO58561.2023.10354968}}
 ```
 
 
